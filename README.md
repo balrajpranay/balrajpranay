@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Balraj Pranay Kumar 👋
 
 ### CSE (AI/ML) Student | AI/ML Enthusiast | Full-Stack Developer
