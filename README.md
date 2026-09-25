@@ -1,34 +1,27 @@
-# Hi, I'm Balraj Pranay Kumar 👋
+# Hi 👋, I'm B.Pranay Kumar
 
-### CSE (AI/ML) Student | AI/ML Enthusiast | Full-Stack Developer
+### Full-Stack Engineer
 
-🎓 Computer Science Engineering (AI/ML)
-💻 Building AI & Web Applications
-🚀 Exploring Machine Learning and Generative AI
+Currently focused on building AI/ML projects, full-stack web applications, and exploring Generative AI.
 
-## 🛠️ Tech Stack
+**Fun fact:** My favorite way to learn a new technology is to build a project with it.
 
-- Python
-- Java
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- Flask
-- MongoDB
-- Git & GitHub
+## Connect with me
 
-## 🚀 Featured Projects
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balrajpranay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-pranaykumar/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranay.b9106@gmail.com)
 
-### ⚡ Electricity Theft Detection
-Machine learning system for detecting suspicious electricity consumption patterns.
+## Tech Stack
 
-### 🎓 Campus Connect
-College Placement Management Portal connecting students, recruiters and placement administration.
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,js,supabase,mongodb)](https://skillicons.dev)
 
-### 🪖 Smart Helmet
-IoT-based safety helmet with alcohol detection and accident/anomaly detection.
+## GitHub Stats
 
-## 📫 Connect With Me
+![B.Pranay Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=balrajpranay&show_icons=true&theme=tokyonight)
 
-LinkedIn | GitHub | Email
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balrajpranay&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=balrajpranay&theme=tokyonight)
+
+---
+
+_Thanks for stopping by - My favorite way to learn a new technology is to build a project with it._
