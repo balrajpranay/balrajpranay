@@ -1,16 +1,35 @@
 ## Hi there 👋
+# Hi, I'm Balraj Pranay Kumar 👋
 
-<!--
-**balrajpranay/balrajpranay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE (AI/ML) Student | AI/ML Enthusiast | Full-Stack Developer
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering (AI/ML)
+💻 Building AI & Web Applications
+🚀 Exploring Machine Learning and Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Python
+- Java
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- Flask
+- MongoDB
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+### ⚡ Electricity Theft Detection
+Machine learning system for detecting suspicious electricity consumption patterns.
+
+### 🎓 Campus Connect
+College Placement Management Portal connecting students, recruiters and placement administration.
+
+### 🪖 Smart Helmet
+IoT-based safety helmet with alcohol detection and accident/anomaly detection.
+
+## 📫 Connect With Me
+
+LinkedIn | GitHub | Email
